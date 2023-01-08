@@ -1,0 +1,16 @@
+# ASP.NET
+**/bin/
+**/obj/
+**/launchSettings.json
+**/appsettings.Development.json
+
+# Angular
+**/node_modules/
+
+# IDE
+/packages/
+**/.idea/
+**/.vscode/
+**/_ReSharper.Caches/
+**/riderModule.iml
+**/*.editorconfig
